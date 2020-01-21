@@ -8,7 +8,7 @@
 # What is a Software Architect?
 Before we dive into details, let’s have a look at two definitions first.
 
-* A software architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms. The leading expert is referred to as the chief architect. 
+* A software architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms.
 _(Source: Wikipedia: Software Architect)_
 * Software architecture is the fundamental organization of a system, represented by its components, their relationships to each other and to the environment, and the principles that determine the design and evolution of the system. 
 _(Source: Handbook of Software Architecture)_
