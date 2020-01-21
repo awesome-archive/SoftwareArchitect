@@ -1,7 +1,3 @@
-# Become a Better Software Architect
-
-Several years ago, I was asked: “How have you become a software architect?”. We talked about necessary skills, experience and the amount of time and dedication it took to build up knowledge. Further, I went through the steps which I took, which technologies I have actively worked with or tried out and what I have learned during my professional and non-professional career.
-
 ## Contents
 - [What is a Software Architect](#what-is-a-software-architect)
 - [Levels of Architecture](#levels-of-architecture)
@@ -12,7 +8,7 @@ Several years ago, I was asked: “How have you become a software architect?”.
 # What is a Software Architect?
 Before we dive into details, let’s have a look at two definitions first.
 
-* A software architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms. The leading expert is referred to as the chief architect. 
+* A software architect is a software expert who makes high-level design choices and dictates technical standards, including software coding standards, tools, and platforms.
 _(Source: Wikipedia: Software Architect)_
 * Software architecture is the fundamental organization of a system, represented by its components, their relationships to each other and to the environment, and the principles that determine the design and evolution of the system. 
 _(Source: Handbook of Software Architecture)_
@@ -21,7 +17,7 @@ _(Source: Handbook of Software Architecture)_
 Architecture can be done on several “levels” of abstractness. The level influences the importance of necessary skills. As there are many possible categorizations possible my favorite segmentation includes these 3 levels:
 * **Application Level**: The lowest level of architecture. Focus on one single application. Very detailed, low level design. Communication usually within one development team.
 * **Solution Level**: The mid-level of architecture. Focus on one or more applications which fulfill a business need (business solution). Some high, but mainly low-level design. Communication between multiple development teams.
-* **Enterprise Level**: The highest level of architecture. Focus on multiple solutions. High level, abstract design, which needs to be detailed out by solution or application architects. Communication across the organization. See [Link](https://github.com/justinamiller/EnterpriseArchitecture) to learn more on this.
+* **Enterprise Level**: The highest level of architecture. Focus on multiple solutions. High level, abstract design, which needs to be detailed out by solution or application architects. Communication across the organization. See [Link](https://github.com/justinamiller/EnterpriseArchitecture) to learn more.
 
 
 Sometimes architects are also seen as “glue” between different stakeholders. Three examples:
@@ -46,11 +42,16 @@ Note: Architecture is a continuous activity, especially when it is applied in ag
 
 # Important Skills of Software Architects
 To support the laid-out activities specific skills are required. From my experience, read books and discussions we can boil this down to these 10 skills every software architect should have:
-
-````
-Design, Decide, Simplify, Code, Document, Communicate, Estimate, Balance, Consult, Market
-````
-Let’s go through one by one. For every skill I have laid out some actions or insights to follow up to improve in that area.
+  * Design
+  * Decide
+  * Simplify
+  * Code
+  * Document
+  * Communicate
+  * Estimate
+  * Balance
+  * Consult
+  * Market
 
 ## (1) Design
 What makes a good design? This is probably the most important and challenging question. I will make a distinction between theory and practice. To my experience, having a mix of both is most valuable. Let’s start with theory:
@@ -62,7 +63,7 @@ Theory is important. Practice is equally or even more important if you do not wa
 
 * **Try out and understand different technology stacks**: I think this is the most important activity if you want to become a better architect. Try out (new) technology stacks and learn their ups and downs. Different or new technology comes with different design aspects and patterns. You most likely do not learn anything from just flipping through abstract slides but by trying it out by yourself and feel the pain or the relieve. An architect should not only have broad but also in some areas deep knowledge. It is not important to master all technology stacks but to have a solid understanding of the most important in your area. Also try out technology which is not in your area, e.g., if you are deep into SAP R/3 you should also try JavaScript and vice versa. Still, both parties will be surprised about the latest advances in SAP S/4 Hana. For example, you can try it by yourself and take a course at openSAP for free. Be curious and try out new things. Also try out stuff which you did not liked some years ago.
 * **Analyze and understand applied patterns**: Have a look at any current framework, e.g., Angular. You can study a lot of patterns in practice, e.g., Observables. Try to understand how it is applied in the framework, why it was done. And if you are really dedicated, have a deeper look into the code and understand how it was implemented.
-* **Be curious and attend User Groups**.
+* **Be curious and attend User Groups**. [Meetup](https://www.meetup.com/)
 
 ## (2) Decide
 An architect needs to be able to take decisions and guide projects or the entire organization into the right direction.
