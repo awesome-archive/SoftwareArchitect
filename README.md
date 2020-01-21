@@ -42,10 +42,16 @@ Note: Architecture is a continuous activity, especially when it is applied in ag
 
 # Important Skills of Software Architects
 To support the laid-out activities specific skills are required. From my experience, read books and discussions we can boil this down to these 10 skills every software architect should have:
-````
-Design, Decide, Simplify, Code, Document, Communicate, Estimate, Balance, Consult, Market
-````
-Let’s go through one by one. For every skill I have laid out some actions or insights to follow up to improve in that area.
+  * Design
+  * Decide
+  * Simplify
+  * Code
+  * Document
+  * Communicate
+  * Estimate
+  * Balance
+  * Consult
+  * Market
 
 ## (1) Design
 What makes a good design? This is probably the most important and challenging question. I will make a distinction between theory and practice. To my experience, having a mix of both is most valuable. Let’s start with theory:
