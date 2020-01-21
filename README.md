@@ -57,7 +57,7 @@ Theory is important. Practice is equally or even more important if you do not wa
 
 * **Try out and understand different technology stacks**: I think this is the most important activity if you want to become a better architect. Try out (new) technology stacks and learn their ups and downs. Different or new technology comes with different design aspects and patterns. You most likely do not learn anything from just flipping through abstract slides but by trying it out by yourself and feel the pain or the relieve. An architect should not only have broad but also in some areas deep knowledge. It is not important to master all technology stacks but to have a solid understanding of the most important in your area. Also try out technology which is not in your area, e.g., if you are deep into SAP R/3 you should also try JavaScript and vice versa. Still, both parties will be surprised about the latest advances in SAP S/4 Hana. For example, you can try it by yourself and take a course at openSAP for free. Be curious and try out new things. Also try out stuff which you did not liked some years ago.
 * **Analyze and understand applied patterns**: Have a look at any current framework, e.g., Angular. You can study a lot of patterns in practice, e.g., Observables. Try to understand how it is applied in the framework, why it was done. And if you are really dedicated, have a deeper look into the code and understand how it was implemented.
-* **Be curious and attend User Groups**.
+* **Be curious and attend User Groups**. [Meetup](https://www.meetup.com/)
 
 ## (2) Decide
 An architect needs to be able to take decisions and guide projects or the entire organization into the right direction.
